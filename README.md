@@ -72,6 +72,9 @@ python color_picker.py
 3. **Exit:** Press the **`Esc`** key on your keyboard while focused on the image window to close the application cleanly.
 
 ---
+## Demo
+
+![Color Detection Demo](color_detection.gif)
 
 ## 📝 License
 
