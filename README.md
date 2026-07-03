@@ -76,4 +76,4 @@ python color_picker.py
 ## 📝 License
 
 This project is developed for academic purposes at the University of Haripur.
-All rights reserved © 2026.
+All rights reserved © .
